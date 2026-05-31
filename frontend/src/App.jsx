@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import axios from 'axios'
 
-const API = 'https://softcore-dashboard.onrender.com'
+const API = 'https://softcore-dashboard-1.onrender.com'
 
 const slideLabels = {
   slide1: 'Hook',
